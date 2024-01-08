@@ -3,7 +3,7 @@ Grid myfxBook
 
 ###
 
-<a href="https://www.myfxbook.com/members/gilles96/mt5-7189392/10630812"><img alt="widget" src="https://widgets.myfxbook.com/systems-custom-widget?uid=2383737&width=1000&height=500&titles=12&showAllSystems=true&bgColor=ffffff&gridColor=bdbdbd&fontColor=525252&chartbgc=ffffff"/></a>
+<a href="https://www.myfxbook.com/members/gilles96/mt5-7189392/10630812"><img alt="widget" src="https://widgets.myfxbook.com/systems-custom-widget?uid=2383737&width=1500&height=500&titles=12&showAllSystems=true&bgColor=ffffff&gridColor=bdbdbd&fontColor=525252&chartbgc=ffffff"/></a>
 
 ###
 
